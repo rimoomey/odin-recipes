@@ -1,4 +1,10 @@
 # odin-recipes
+
+Disclaimer: These recipes were taken from AllRecipes.com. All images and text belong to 
+the respective authors of that site.
+
+Website is published here: https://rimoomey.github.io/odin-recipes/
+
 Project: Recipes for The Odin Project Foundations curriculum
 This is the first project in The Odin Project Foundations track. By the end, I will have
 
